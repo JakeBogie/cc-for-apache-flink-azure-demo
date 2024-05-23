@@ -4,8 +4,8 @@ Running these queries requires 4 topics to be set up using the [Datagen connecto
 using AVRO and Schema Registry.
 
 * Topic `clickstream` -> Datagen template `SHOE_CLICKSTREAM` 
-* Topic `customers` -> Datagen template `SHOE_ORDERS`
-* Topic `orders` -> Datagen template `SHOE_CUSTOMERS`
+* Topic `customers` -> Datagen template `SHOE_CUSTOMERS`
+* Topic `orders` -> Datagen template `SHOE_ORDERS`
 * Topic `shoes` -> Datagen template `SHOES` 
 
 ### Explore your data
